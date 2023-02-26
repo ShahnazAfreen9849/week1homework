@@ -1,0 +1,28 @@
+.lesson {
+    width: 200px;
+    height: 100px;
+  }
+  
+.section-blue {
+  color: aquamarine;
+background-color: rgb(13, 46, 235);
+
+}
+  
+.container {
+  color: rgb(211, 25, 25);
+  background-color:rgb(38, 26, 204)
+
+}
+
+#section-1 {
+  color: blueviolet;
+  background-color: rgb(215, 236, 18);
+
+}
+
+#section-6 {
+  color: blue;
+  background-color: rgb(38, 203, 110);
+
+}
