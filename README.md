@@ -1,5 +1,7 @@
 This is a  code with sementic html format
 
+replaced div with semantic html elements
+
 ## User story:
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
@@ -26,7 +28,7 @@ You are required to submit the following for review:
 
 * The URL of the deployed application.
 
-## link:file:/ //Users/shahnazafreen/repos/week1homework/week1-homework/01-HTML-Git-CSS/02-Challenge/Develop/index.html
+## https://shahnazafreen9849.github.io/week1homework/
 
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
-## github ssh: git@github.com:ShahnazAfreen9849/week1homework.git
+## https://github.com/ShahnazAfreen9849/week1homework
