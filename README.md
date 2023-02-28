@@ -1,6 +1,3 @@
-This is a  code with sementic html format
-
-replaced div with semantic html elements
 
 ## User story:
 AS A marketing agency
@@ -9,22 +6,19 @@ SO THAT our own site is optimized for search engines
 
 
 ## Acceptance criteria:
+ Add sementic elements by replacing div/ as required
+
+The following HTML tags can be used to break your page into identified parts:
+
+<header>: t defines a header for a web page.
+<nav>: It defines a container for navigation links.
+<section>: This defines a section in a web page.
+<article>: This element contains the main part, containing information about the web page.
+<aside>: The <aside> content is often placed as a sidebar in a document.
+<footer>: It defines a footer for a document or a section.
 
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-
-##
-You are required to submit the following for review:
+## submit the following for review:
 
 * The URL of the deployed application.
 
